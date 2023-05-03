@@ -1,4 +1,4 @@
-[![MasterHead](https://www.ismartcom.com/hs-fs/hubfs/ai%20gif.gif?width=900&name=ai%20gif.gif)](https://ranagamerz.xyz)
+[![MasterHead](https://theintercept.imgix.net/wp-uploads/sites/1/2018/03/Intercept_FB_3-1521757151.gif)](https://ranagamerz.xyz)
 <h1 align="center">Hi 👋, I'm rohitcodism</h1>
 <h3 align="center">A passionate frontend developer and data scientist</h3>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/1360/0*gqO3slLmGb4mUeje.gif">
