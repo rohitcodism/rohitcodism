@@ -14,7 +14,7 @@
 
 
 # 💫 About Me:
-🔭 I’m currently working on React and Threejs<br>👯 I’m looking to collaborate on frontend-development<br>🤝 I’m looking for help with backend-development<br>🌱 I’m currently learning React and threejs<br>💬 Ask me about web-development, web designing, DSA<br>⚡ Fun fact
+🔭 I’m currently working on Exploratory Data Analysis<br>👯 I’m looking to collaborate on frontend-development and EDA<br>🤝 I’m looking for help with backend-development<br>🌱 I’m currently learning React and EDA<br>💬 Ask me about web-development, EDA, DSA<br>⚡ Fun fact
 
 
 ## 🌐 Socials:
