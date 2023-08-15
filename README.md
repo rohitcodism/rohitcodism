@@ -3,6 +3,7 @@
 <h1>Hi 👋 I'm Rohit Paul</h1>
 <h3> "👨‍💻 Hey there, I'm Rohit Paul! A dedicated Front End Developer with an insatiable curiosity for technology and a burning passion for shaping the future with AI and Machine Learning. 🚀
 
+
 🎨 As a Front End Developer, I weave together aesthetics and functionality to create seamless and captivating user experiences. My journey started with HTML and CSS, and I've ventured into the realms of JavaScript, React, and beyond. Every line of code is a brushstroke that adds beauty to the digital canvas.
 
 🤖 But that's not where my journey stops! I'm on a quest to dive deep into the world of AI and Machine Learning. The potential to create intelligent systems that learn and adapt fuels my enthusiasm. I'm constantly learning, exploring algorithms, data patterns, and envisioning ways to make the impossible possible.
