@@ -12,6 +12,8 @@
 
 🌐 Let's collaborate and innovate, bridging the gap between the aesthetic and the analytical. Join me in the journey of discovery, where code meets curiosity, and AI opens up new dimensions of possibilities. Together, we'll code, learn, and shape the future! 🤝✨ #CodeAndCuriosity" </h3>
 
+<a href="https://app.daily.dev/rohitpaul"><img src="https://api.daily.dev/devcards/5a5881330fb643108132cdeb7f3600ab.png?r=zek" width="400" alt="Rohit Paul's Dev Card"/></a>
+
 
 # 💫 About Me:
 🔭 I’m currently working on Exploratory Data Analysis<br>👯 I’m looking to collaborate on frontend-development and EDA<br>🤝 I’m looking for help with backend-development<br>🌱 I’m currently learning React and EDA<br>💬 Ask me about web-development, EDA, DSA<br>⚡ Fun fact
