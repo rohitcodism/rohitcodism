@@ -36,4 +36,4 @@
 ![](https://github-contributor-stats.vercel.app/api?username=rohitcodism&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ### 📊 My Languages
-![](https://wakatime.com/share/@018b3413-beda-47c8-aa40-ece4ed69f861/04e4b9b6-2124-43c0-83a6-215d1b6ccf7e.svg)
+![](https://wakatime.com/share/@018b3413-beda-47c8-aa40-ece4ed69f861/04e4b9b6-2124-43c0-83a6-215d1b6ccf7e.svg "width=50% height=50%")
