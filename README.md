@@ -1,5 +1,3 @@
-
-
 <h1>Hi 👋 I'm Rohit Paul</h1>
 <h3> "👨‍💻 Hey there, I'm Rohit Paul! A dedicated Front End Developer with an insatiable curiosity for technology and a burning passion for shaping the future with AI and Machine Learning. 🚀
 
