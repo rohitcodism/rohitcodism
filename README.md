@@ -121,6 +121,6 @@
 
 ###
 
-<img width="200" height="200" src="https://wakatime.com/share/@018b3413-beda-47c8-aa40-ece4ed69f861/269d2dd2-1e90-46d2-9059-dade5a1d54d2.svg" />
+<img width="800" height="800" src="https://wakatime.com/share/@018b3413-beda-47c8-aa40-ece4ed69f861/269d2dd2-1e90-46d2-9059-dade5a1d54d2.svg" />
 
 ###
