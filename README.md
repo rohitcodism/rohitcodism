@@ -1,14 +1,17 @@
 <h1>Hi 👋 I'm Rohit Paul</h1>
-<h3> "👨‍💻 Hey there, I'm Rohit Paul! A dedicated Front End Developer with an insatiable curiosity for technology and a burning passion for shaping the future with AI and Machine Learning. 🚀
 
+<h3>
+👨‍💻 Hey there, I'm Rohit Paul! A Full Stack Developer and AI/ML enthusiast with a passion for creating innovative solutions across the tech spectrum. 🚀
+ 
+🎨 As a **Full Stack Developer**, I specialize in building **end-to-end web applications**, from crafting seamless **front-end interfaces** with **React**, **Next.js**, and **JavaScript**, to designing efficient **back-end systems**. My development philosophy revolves around merging aesthetics with functionality, ensuring user-friendly and performant applications.
 
-🎨 As a Front End Developer, I weave together aesthetics and functionality to create seamless and captivating user experiences. My journey started with HTML and CSS, and I've ventured into the realms of JavaScript, React, and beyond. Every line of code is a brushstroke that adds beauty to the digital canvas.
+🤖 My journey doesn't stop there—I’m also deeply invested in the world of **Artificial Intelligence** and **Machine Learning**. With a curiosity for how technology can learn and adapt, I explore various **AI/ML algorithms** and tools to find real-world applications that push the boundaries of what’s possible.
 
-🤖 But that's not where my journey stops! I'm on a quest to dive deep into the world of AI and Machine Learning. The potential to create intelligent systems that learn and adapt fuels my enthusiasm. I'm constantly learning, exploring algorithms, data patterns, and envisioning ways to make the impossible possible.
+🌟 My GitHub reflects this diverse skill set, featuring a blend of **full stack projects** and **AI/ML experiments**. Whether it's building dynamic applications or experimenting with cutting-edge technologies, I’m always looking for ways to expand my knowledge and contribute to meaningful projects.
 
-🌟 My GitHub is a reflection of my commitment to both the art of user-centric development and the science of AI. You'll find repositories showcasing my front-end creations, experiments with ML algorithms, and ambitious AI projects aimed at transforming how we interact with technology.
+🌐 Let’s connect, collaborate, and create innovative solutions together. Whether it's through code, design, or data, I’m excited to explore the future of technology. 🤝✨ #FullStackDev #AI/ML #TechInnovation
 
-🌐 Let's collaborate and innovate, bridging the gap between the aesthetic and the analytical. Join me in the journey of discovery, where code meets curiosity, and AI opens up new dimensions of possibilities. Together, we'll code, learn, and shape the future! 🤝✨ #CodeAndCuriosity" </h3>
+</h3>
 
 # 💫 About Me:
 🔭 I’m currently working on Backend Development and Next.js<br>👯 I’m looking to collaborate on frontend-development and EDA<br>🤝 I’m looking for help with backend-development<br>🌱 I’m currently learning Solidity and Ethereum<br>💬 Ask me about web-development, EDA, DSA<br>⚡ Fun fact
