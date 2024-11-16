@@ -14,7 +14,7 @@
 </h3>
 
 # 💫 About Me:
-🔭 I’m currently working on Backend Development and Next.js<br>👯 I’m looking to collaborate on frontend-development and EDA<br>🤝 I’m looking for help with backend-development<br>🌱 I’m currently learning Solidity and Ethereum<br>💬 Ask me about web-development, EDA, DSA<br>⚡ Fun fact
+🔭 I’m currently working on Full Stack Development and Deep Learninig<br>👯 I’m looking to collaborate on Full Stack Development<br>🤝 I’m looking for help with N/A<br>🌱 I’m currently learning Deep Learninig and Computer Vision<br>💬 Ask me about Web-Dev, ML, DL<br>⚡ Fun fact
 
 
 <div align="center">
